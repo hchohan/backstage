@@ -7,10 +7,10 @@ metadata:
     - store
     - rest
   links:
-    - url: 
+    - url: https://hchohan01.postman.co/
       title: GitHub Repo
       icon: github
-    - url: 
+    - url: https://hchohan01.postman.co/
       title: API Spec
       icon: code
 spec:
