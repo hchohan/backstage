@@ -5,8 +5,6 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   links:
-    - title: Postman Open OAS
-      url: https://hchohan01.postman.co/workspace/Create-API-Assets~fb01ced3-9acf-4bb2-88ab-8d2531ea9b91/api/245c7d45-500c-4fd4-860b-de768461608e/version/e5ab056d-997b-42e8-ae9b-3218dcba9492?tab=define
     - title: Website
       url: http://backstage.io
     - title: Documentation
@@ -15,6 +13,8 @@ metadata:
       url: https://backstage.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
+    - title: Postman Open OAS
+      url: https://hchohan01.postman.co/workspace/Create-API-Assets~fb01ced3-9acf-4bb2-88ab-8d2531ea9b91/api/245c7d45-500c-4fd4-860b-de768461608e/version/e5ab056d-997b-42e8-ae9b-3218dcba9492?tab=define
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
