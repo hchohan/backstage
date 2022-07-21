@@ -1,5 +1,23 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
+metadata:
+  name: basket
+  description: Basket API
+  tags:
+    - store
+    - rest
+  links:
+    - url: 
+      title: GitHub Repo
+      icon: github
+    - url: 
+      title: API Spec
+      icon: code
+spec:
+  type: openapi
+  lifecycle: experimental
+  owner: team-c
+  definition: |
 openapi: 3.0.0
 info:
   title: Basket is empty
